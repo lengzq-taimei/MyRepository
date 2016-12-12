@@ -10,7 +10,7 @@ body{
     float: left;
 }
 .banner{
-    height: 20%;
+    height: 20%;/*本地测试git*/
     width: 100%;
     border-bottom: 2px dashed #3333ee;
 }
